@@ -21,7 +21,7 @@ lb1.place(x=230,y=200)
 #lb3.pack(side=LEFT,fill=Y) #comando FILL e responsavel do preenchimento 100%, deve usar x para VERTICAL deve ser maisuculo
 #lb4.pack(side=BOTTOM,fill=X)
 
-lb1.pack(side=TOP,fill=BOTH,expand=3)
+lb1.pack(side=TOP,fill=BOTH,expand=1)
 lb2.pack(side=TOP,fill=BOTH,expand=1) 
 lb3.pack(side=TOP,fill=BOTH,expand=1) 
 lb4.pack(side=TOP,fill=BOTH,expand=1)

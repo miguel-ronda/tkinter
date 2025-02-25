@@ -29,6 +29,7 @@ def bt_multi():
      num1 = int(ed1.get())
      num2 = int(ed2.get())
     lb["text"] = num1 * num2 
+    
 
           
 def bt_div():

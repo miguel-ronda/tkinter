@@ -2,8 +2,8 @@ from tkinter import*
 
 #CRIANDO UMA FUNCAO PARA CLIQUE NO BOTAO
 def bt_click():
-    # o label que usa proprieda text recebera a mensagem "trocou o texto"
-    lb['text']="trocou o texto"
+    #no label que usa proprieda text recebera a mensagem "trocou o texto"
+    lb['text'] = "trocou o texto"
     #esse print abaixo exibe o texto a tela do console.
     print("o botao foi clicado!")
 

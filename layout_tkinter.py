@@ -28,10 +28,12 @@ lb1.place(x=230,y=200)
 #lb4.pack(side="bottom")
 
 
-lb1.pack(side="left")
-lb2.pack(side="left")
-lb3.pack()
-lb4.pack()
+#lb1.pack(side="left")
+#lb2.pack(side="left")
+#lb3.pack()
+#lb4.pack()
+
+
 
 
 
