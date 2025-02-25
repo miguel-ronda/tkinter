@@ -10,7 +10,7 @@ lb1.grid(row=2,column=2)
 
 
 lb2=Label(i,text="senha",bg="red")
-lb2.grid(row=1,column=25)
+lb2.grid(row=1,column=2)
 
 ed1=Entry(i)
 ed1.grid(row=1,column=2)
